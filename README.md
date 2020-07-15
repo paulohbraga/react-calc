@@ -1,0 +1,2 @@
+# react-calc
+React calculator 
